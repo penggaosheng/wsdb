@@ -1,0 +1,1 @@
+cd test/sql/lab02/ &&  bash evaluate.sh ../../../build/bin t1      

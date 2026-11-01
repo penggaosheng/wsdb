@@ -1,0 +1,31 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/github/wsdb/out/build/x64-Debug/cmake_install.cmake",
+		"D:/github/wsdb/out/build/x64-Debug/src/cmake_install.cmake",
+		"D:/github/wsdb/out/build/x64-Debug/src/parser/cmake_install.cmake",
+		"D:/github/wsdb/out/build/x64-Debug/src/plan/cmake_install.cmake",
+		"D:/github/wsdb/out/build/x64-Debug/src/optimizer/cmake_install.cmake",
+		"D:/github/wsdb/out/build/x64-Debug/src/execution/cmake_install.cmake",
+		"D:/github/wsdb/out/build/x64-Debug/src/storage/cmake_install.cmake",
+		"D:/github/wsdb/out/build/x64-Debug/src/storage/buffer/cmake_install.cmake",
+		"D:/github/wsdb/out/build/x64-Debug/src/storage/disk/cmake_install.cmake",
+		"D:/github/wsdb/out/build/x64-Debug/src/storage/index/cmake_install.cmake",
+		"D:/github/wsdb/out/build/x64-Debug/src/system/cmake_install.cmake",
+		"D:/github/wsdb/out/build/x64-Debug/src/system/handle/cmake_install.cmake",
+		"D:/github/wsdb/out/build/x64-Debug/src/system/table/cmake_install.cmake",
+		"D:/github/wsdb/out/build/x64-Debug/src/system/index/cmake_install.cmake",
+		"D:/github/wsdb/out/build/x64-Debug/src/expr/cmake_install.cmake",
+		"D:/github/wsdb/out/build/x64-Debug/src/net/cmake_install.cmake",
+		"D:/github/wsdb/out/build/x64-Debug/src/concurrency/cmake_install.cmake",
+		"D:/github/wsdb/out/build/x64-Debug/src/log/cmake_install.cmake",
+		"D:/github/wsdb/out/build/x64-Debug/client/cmake_install.cmake",
+		"D:/github/wsdb/out/build/x64-Debug/common/cmake_install.cmake",
+		"D:/github/wsdb/out/build/x64-Debug/third_party/googletest/cmake_install.cmake",
+		"D:/github/wsdb/out/build/x64-Debug/third_party/googletest/googlemock/cmake_install.cmake",
+		"D:/github/wsdb/out/build/x64-Debug/third_party/googletest/googletest/cmake_install.cmake",
+		"D:/github/wsdb/out/build/x64-Debug/third_party/fmt/cmake_install.cmake",
+		"D:/github/wsdb/out/build/x64-Debug/test/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
